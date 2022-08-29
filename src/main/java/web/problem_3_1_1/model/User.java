@@ -1,4 +1,4 @@
-package web.model;
+package web.problem_3_1_1.model;
 
 import javax.persistence.*;
 

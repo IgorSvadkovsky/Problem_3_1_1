@@ -1,6 +1,6 @@
-package web.dao;
+package web.problem_3_1_1.dao;
 
-import web.model.User;
+import web.problem_3_1_1.model.User;
 
 import java.util.List;
 

@@ -1,11 +1,12 @@
-package web.controller;
+package web.problem_3_1_1.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.*;
-import web.model.User;
-import web.service.UserService;
+import web.problem_3_1_1.model.User;
+import web.problem_3_1_1.service.UserService;
+
 
 import java.util.List;
 

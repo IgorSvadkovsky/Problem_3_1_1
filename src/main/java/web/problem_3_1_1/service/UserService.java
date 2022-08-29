@@ -1,6 +1,6 @@
-package web.service;
+package web.problem_3_1_1.service;
 
-import web.model.User;
+import web.problem_3_1_1.model.User;
 
 import java.util.List;
 

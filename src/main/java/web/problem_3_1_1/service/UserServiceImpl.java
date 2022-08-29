@@ -1,9 +1,9 @@
-package web.service;
+package web.problem_3_1_1.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import web.dao.UserDao;
-import web.model.User;
+import web.problem_3_1_1.dao.UserDao;
+import web.problem_3_1_1.model.User;
 
 import javax.transaction.Transactional;
 import java.util.List;
